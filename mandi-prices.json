@@ -1,0 +1,655 @@
+{
+  "mandi_prices": {
+    "Apple": {
+      "day1": {
+        "arrivalDate": "2026-05-08",
+        "commodity": "Apple",
+        "market": "Shimla",
+        "maxPrice": 112,
+        "minPrice": 75,
+        "modalPrice": 92,
+        "state": "Himachal Pradesh"
+      },
+      "day2": {
+        "arrivalDate": "2026-05-09",
+        "commodity": "Apple",
+        "market": "Shimla",
+        "maxPrice": 114,
+        "minPrice": 76,
+        "modalPrice": 94,
+        "state": "Himachal Pradesh"
+      },
+      "day3": {
+        "arrivalDate": "2026-05-10",
+        "commodity": "Apple",
+        "market": "Shimla",
+        "maxPrice": 115,
+        "minPrice": 77,
+        "modalPrice": 95,
+        "state": "Himachal Pradesh"
+      },
+      "day4": {
+        "arrivalDate": "2026-05-11",
+        "commodity": "Apple",
+        "market": "Shimla",
+        "maxPrice": 117,
+        "minPrice": 78,
+        "modalPrice": 97,
+        "state": "Himachal Pradesh"
+      },
+      "day5": {
+        "arrivalDate": "2026-05-12",
+        "commodity": "Apple",
+        "market": "Shimla",
+        "maxPrice": 118,
+        "minPrice": 79,
+        "modalPrice": 98,
+        "state": "Himachal Pradesh"
+      },
+      "day6": {
+        "arrivalDate": "2026-05-13",
+        "commodity": "Apple",
+        "market": "Shimla",
+        "maxPrice": 119,
+        "minPrice": 80,
+        "modalPrice": 99,
+        "state": "Himachal Pradesh"
+      },
+      "day7": {
+        "arrivalDate": "2026-05-14",
+        "commodity": "Apple",
+        "market": "Shimla",
+        "maxPrice": 120,
+        "minPrice": 80,
+        "modalPrice": 100,
+        "state": "Himachal Pradesh"
+      }
+    },
+    "Banana": {
+      "day1": {
+        "arrivalDate": "2026-05-08",
+        "commodity": "Banana",
+        "market": "Tumkur",
+        "maxPrice": 40,
+        "minPrice": 26,
+        "modalPrice": 33,
+        "state": "Karnataka"
+      },
+      "day2": {
+        "arrivalDate": "2026-05-09",
+        "commodity": "Banana",
+        "market": "Tumkur",
+        "maxPrice": 41,
+        "minPrice": 27,
+        "modalPrice": 34,
+        "state": "Karnataka"
+      },
+      "day3": {
+        "arrivalDate": "2026-05-10",
+        "commodity": "Banana",
+        "market": "Tumkur",
+        "maxPrice": 42,
+        "minPrice": 28,
+        "modalPrice": 35,
+        "state": "Karnataka"
+      },
+      "day4": {
+        "arrivalDate": "2026-05-11",
+        "commodity": "Banana",
+        "market": "Tumkur",
+        "maxPrice": 43,
+        "minPrice": 29,
+        "modalPrice": 36,
+        "state": "Karnataka"
+      },
+      "day5": {
+        "arrivalDate": "2026-05-12",
+        "commodity": "Banana",
+        "market": "Tumkur",
+        "maxPrice": 44,
+        "minPrice": 29,
+        "modalPrice": 37,
+        "state": "Karnataka"
+      },
+      "day6": {
+        "arrivalDate": "2026-05-13",
+        "commodity": "Banana",
+        "market": "Tumkur",
+        "maxPrice": 44,
+        "minPrice": 30,
+        "modalPrice": 37,
+        "state": "Karnataka"
+      },
+      "day7": {
+        "arrivalDate": "2026-05-14",
+        "commodity": "Banana",
+        "market": "Tumkur",
+        "maxPrice": 45,
+        "minPrice": 30,
+        "modalPrice": 38,
+        "state": "Karnataka"
+      }
+    },
+    "Onion": {
+      "day1": {
+        "arrivalDate": "2026-05-08",
+        "commodity": "Onion",
+        "market": "Bangalore",
+        "maxPrice": 20,
+        "minPrice": 15,
+        "modalPrice": 18,
+        "state": "Karnataka"
+      },
+      "day2": {
+        "arrivalDate": "2026-05-09",
+        "commodity": "Onion",
+        "market": "Bangalore",
+        "maxPrice": 21,
+        "minPrice": 16,
+        "modalPrice": 19,
+        "state": "Karnataka"
+      },
+      "day3": {
+        "arrivalDate": "2026-05-10",
+        "commodity": "Onion",
+        "market": "Bangalore",
+        "maxPrice": 22,
+        "minPrice": 17,
+        "modalPrice": 20,
+        "state": "Karnataka"
+      },
+      "day4": {
+        "arrivalDate": "2026-05-11",
+        "commodity": "Onion",
+        "market": "Bangalore",
+        "maxPrice": 22,
+        "minPrice": 18,
+        "modalPrice": 21,
+        "state": "Karnataka"
+      },
+      "day5": {
+        "arrivalDate": "2026-05-12",
+        "commodity": "Onion",
+        "market": "Bangalore",
+        "maxPrice": 23,
+        "minPrice": 18,
+        "modalPrice": 21,
+        "state": "Karnataka"
+      },
+      "day6": {
+        "arrivalDate": "2026-05-13",
+        "commodity": "Onion",
+        "market": "Bangalore",
+        "maxPrice": 23,
+        "minPrice": 18,
+        "modalPrice": 22,
+        "state": "Karnataka"
+      },
+      "day7": {
+        "arrivalDate": "2026-05-14",
+        "commodity": "Onion",
+        "market": "Bangalore",
+        "maxPrice": 24,
+        "minPrice": 18,
+        "modalPrice": 22,
+        "state": "Karnataka"
+      }
+    },
+    "Potato": {
+      "day1": {
+        "arrivalDate": "2026-05-08",
+        "commodity": "Potato",
+        "market": "Hubli",
+        "maxPrice": 23,
+        "minPrice": 16,
+        "modalPrice": 19,
+        "state": "Karnataka"
+      },
+      "day2": {
+        "arrivalDate": "2026-05-09",
+        "commodity": "Potato",
+        "market": "Hubli",
+        "maxPrice": 24,
+        "minPrice": 17,
+        "modalPrice": 20,
+        "state": "Karnataka"
+      },
+      "day3": {
+        "arrivalDate": "2026-05-10",
+        "commodity": "Potato",
+        "market": "Hubli",
+        "maxPrice": 25,
+        "minPrice": 18,
+        "modalPrice": 21,
+        "state": "Karnataka"
+      },
+      "day4": {
+        "arrivalDate": "2026-05-11",
+        "commodity": "Potato",
+        "market": "Hubli",
+        "maxPrice": 26,
+        "minPrice": 18,
+        "modalPrice": 22,
+        "state": "Karnataka"
+      },
+      "day5": {
+        "arrivalDate": "2026-05-12",
+        "commodity": "Potato",
+        "market": "Hubli",
+        "maxPrice": 27,
+        "minPrice": 19,
+        "modalPrice": 23,
+        "state": "Karnataka"
+      },
+      "day6": {
+        "arrivalDate": "2026-05-13",
+        "commodity": "Potato",
+        "market": "Hubli",
+        "maxPrice": 27,
+        "minPrice": 19,
+        "modalPrice": 23,
+        "state": "Karnataka"
+      },
+      "day7": {
+        "arrivalDate": "2026-05-14",
+        "commodity": "Potato",
+        "market": "Hubli",
+        "maxPrice": 28,
+        "minPrice": 20,
+        "modalPrice": 24,
+        "state": "Karnataka"
+      }
+    },
+    "Tomato": {
+      "day1": {
+        "arrivalDate": "2026-05-08",
+        "commodity": "Tomato",
+        "market": "Mysore",
+        "maxPrice": 15,
+        "minPrice": 8,
+        "modalPrice": 11,
+        "state": "Karnataka"
+      },
+      "day2": {
+        "arrivalDate": "2026-05-09",
+        "commodity": "Tomato",
+        "market": "Mysore",
+        "maxPrice": 16,
+        "minPrice": 9,
+        "modalPrice": 12,
+        "state": "Karnataka"
+      },
+      "day3": {
+        "arrivalDate": "2026-05-10",
+        "commodity": "Tomato",
+        "market": "Mysore",
+        "maxPrice": 17,
+        "minPrice": 10,
+        "modalPrice": 13,
+        "state": "Karnataka"
+      },
+      "day4": {
+        "arrivalDate": "2026-05-11",
+        "commodity": "Tomato",
+        "market": "Mysore",
+        "maxPrice": 18,
+        "minPrice": 10,
+        "modalPrice": 14,
+        "state": "Karnataka"
+      },
+      "day5": {
+        "arrivalDate": "2026-05-12",
+        "commodity": "Tomato",
+        "market": "Mysore",
+        "maxPrice": 18,
+        "minPrice": 11,
+        "modalPrice": 15,
+        "state": "Karnataka"
+      },
+      "day6": {
+        "arrivalDate": "2026-05-13",
+        "commodity": "Tomato",
+        "market": "Mysore",
+        "maxPrice": 19,
+        "minPrice": 11,
+        "modalPrice": 15,
+        "state": "Karnataka"
+      },
+      "day7": {
+        "arrivalDate": "2026-05-14",
+        "commodity": "Tomato",
+        "market": "Mysore",
+        "maxPrice": 20,
+        "minPrice": 12,
+        "modalPrice": 16,
+        "state": "Karnataka"
+      }
+    },
+    "Beetroot": {
+      "day1": {
+        "arrivalDate": "2026-05-08",
+        "commodity": "Beetroot",
+        "market": "Bangalore",
+        "maxPrice": 29,
+        "minPrice": 18,
+        "modalPrice": 23,
+        "state": "Karnataka"
+      },
+      "day2": {
+        "arrivalDate": "2026-05-09",
+        "commodity": "Beetroot",
+        "market": "Bangalore",
+        "maxPrice": 30,
+        "minPrice": 19,
+        "modalPrice": 24,
+        "state": "Karnataka"
+      },
+      "day3": {
+        "arrivalDate": "2026-05-10",
+        "commodity": "Beetroot",
+        "market": "Bangalore",
+        "maxPrice": 31,
+        "minPrice": 20,
+        "modalPrice": 25,
+        "state": "Karnataka"
+      },
+      "day4": {
+        "arrivalDate": "2026-05-11",
+        "commodity": "Beetroot",
+        "market": "Bangalore",
+        "maxPrice": 32,
+        "minPrice": 20,
+        "modalPrice": 26,
+        "state": "Karnataka"
+      },
+      "day5": {
+        "arrivalDate": "2026-05-12",
+        "commodity": "Beetroot",
+        "market": "Bangalore",
+        "maxPrice": 33,
+        "minPrice": 21,
+        "modalPrice": 27,
+        "state": "Karnataka"
+      },
+      "day6": {
+        "arrivalDate": "2026-05-13",
+        "commodity": "Beetroot",
+        "market": "Bangalore",
+        "maxPrice": 34,
+        "minPrice": 21,
+        "modalPrice": 27,
+        "state": "Karnataka"
+      },
+      "day7": {
+        "arrivalDate": "2026-05-14",
+        "commodity": "Beetroot",
+        "market": "Bangalore",
+        "maxPrice": 35,
+        "minPrice": 22,
+        "modalPrice": 28,
+        "state": "Karnataka"
+      }
+    },
+    "Bhindi": {
+      "day1": {
+        "arrivalDate": "2026-05-08",
+        "commodity": "Bhindi",
+        "market": "Mysore",
+        "maxPrice": 34,
+        "minPrice": 20,
+        "modalPrice": 26,
+        "state": "Karnataka"
+      },
+      "day2": {
+        "arrivalDate": "2026-05-09",
+        "commodity": "Bhindi",
+        "market": "Mysore",
+        "maxPrice": 35,
+        "minPrice": 21,
+        "modalPrice": 27,
+        "state": "Karnataka"
+      },
+      "day3": {
+        "arrivalDate": "2026-05-10",
+        "commodity": "Bhindi",
+        "market": "Mysore",
+        "maxPrice": 36,
+        "minPrice": 22,
+        "modalPrice": 28,
+        "state": "Karnataka"
+      },
+      "day4": {
+        "arrivalDate": "2026-05-11",
+        "commodity": "Bhindi",
+        "market": "Mysore",
+        "maxPrice": 37,
+        "minPrice": 23,
+        "modalPrice": 29,
+        "state": "Karnataka"
+      },
+      "day5": {
+        "arrivalDate": "2026-05-12",
+        "commodity": "Bhindi",
+        "market": "Mysore",
+        "maxPrice": 38,
+        "minPrice": 24,
+        "modalPrice": 30,
+        "state": "Karnataka"
+      },
+      "day6": {
+        "arrivalDate": "2026-05-13",
+        "commodity": "Bhindi",
+        "market": "Mysore",
+        "maxPrice": 39,
+        "minPrice": 25,
+        "modalPrice": 31,
+        "state": "Karnataka"
+      },
+      "day7": {
+        "arrivalDate": "2026-05-14",
+        "commodity": "Bhindi",
+        "market": "Mysore",
+        "maxPrice": 40,
+        "minPrice": 26,
+        "modalPrice": 32,
+        "state": "Karnataka"
+      }
+    },
+    "Capsicum": {
+      "day1": {
+        "arrivalDate": "2026-05-08",
+        "commodity": "Capsicum",
+        "market": "Ooty",
+        "maxPrice": 58,
+        "minPrice": 34,
+        "modalPrice": 45,
+        "state": "Tamil Nadu"
+      },
+      "day2": {
+        "arrivalDate": "2026-05-09",
+        "commodity": "Capsicum",
+        "market": "Ooty",
+        "maxPrice": 59,
+        "minPrice": 35,
+        "modalPrice": 46,
+        "state": "Tamil Nadu"
+      },
+      "day3": {
+        "arrivalDate": "2026-05-10",
+        "commodity": "Capsicum",
+        "market": "Ooty",
+        "maxPrice": 60,
+        "minPrice": 36,
+        "modalPrice": 47,
+        "state": "Tamil Nadu"
+      },
+      "day4": {
+        "arrivalDate": "2026-05-11",
+        "commodity": "Capsicum",
+        "market": "Ooty",
+        "maxPrice": 61,
+        "minPrice": 37,
+        "modalPrice": 48,
+        "state": "Tamil Nadu"
+      },
+      "day5": {
+        "arrivalDate": "2026-05-12",
+        "commodity": "Capsicum",
+        "market": "Ooty",
+        "maxPrice": 63,
+        "minPrice": 38,
+        "modalPrice": 50,
+        "state": "Tamil Nadu"
+      },
+      "day6": {
+        "arrivalDate": "2026-05-13",
+        "commodity": "Capsicum",
+        "market": "Ooty",
+        "maxPrice": 64,
+        "minPrice": 39,
+        "modalPrice": 51,
+        "state": "Tamil Nadu"
+      },
+      "day7": {
+        "arrivalDate": "2026-05-14",
+        "commodity": "Capsicum",
+        "market": "Ooty",
+        "maxPrice": 65,
+        "minPrice": 40,
+        "modalPrice": 52,
+        "state": "Tamil Nadu"
+      }
+    },
+    "Carrot": {
+      "day1": {
+        "arrivalDate": "2026-05-08",
+        "commodity": "Carrot",
+        "market": "Ooty",
+        "maxPrice": 36,
+        "minPrice": 22,
+        "modalPrice": 29,
+        "state": "Tamil Nadu"
+      },
+      "day2": {
+        "arrivalDate": "2026-05-09",
+        "commodity": "Carrot",
+        "market": "Ooty",
+        "maxPrice": 37,
+        "minPrice": 23,
+        "modalPrice": 30,
+        "state": "Tamil Nadu"
+      },
+      "day3": {
+        "arrivalDate": "2026-05-10",
+        "commodity": "Carrot",
+        "market": "Ooty",
+        "maxPrice": 38,
+        "minPrice": 24,
+        "modalPrice": 31,
+        "state": "Tamil Nadu"
+      },
+      "day4": {
+        "arrivalDate": "2026-05-11",
+        "commodity": "Carrot",
+        "market": "Ooty",
+        "maxPrice": 39,
+        "minPrice": 25,
+        "modalPrice": 32,
+        "state": "Tamil Nadu"
+      },
+      "day5": {
+        "arrivalDate": "2026-05-12",
+        "commodity": "Carrot",
+        "market": "Ooty",
+        "maxPrice": 40,
+        "minPrice": 26,
+        "modalPrice": 33,
+        "state": "Tamil Nadu"
+      },
+      "day6": {
+        "arrivalDate": "2026-05-13",
+        "commodity": "Carrot",
+        "market": "Ooty",
+        "maxPrice": 41,
+        "minPrice": 27,
+        "modalPrice": 34,
+        "state": "Tamil Nadu"
+      },
+      "day7": {
+        "arrivalDate": "2026-05-14",
+        "commodity": "Carrot",
+        "market": "Ooty",
+        "maxPrice": 42,
+        "minPrice": 28,
+        "modalPrice": 35,
+        "state": "Tamil Nadu"
+      }
+    },
+    "Cabbage": {
+      "day1": {
+        "arrivalDate": "2026-05-08",
+        "commodity": "Cabbage",
+        "market": "Bangalore",
+        "maxPrice": 16,
+        "minPrice": 10,
+        "modalPrice": 13,
+        "state": "Karnataka"
+      },
+      "day2": {
+        "arrivalDate": "2026-05-09",
+        "commodity": "Cabbage",
+        "market": "Bangalore",
+        "maxPrice": 17,
+        "minPrice": 11,
+        "modalPrice": 14,
+        "state": "Karnataka"
+      },
+      "day3": {
+        "arrivalDate": "2026-05-10",
+        "commodity": "Cabbage",
+        "market": "Bangalore",
+        "maxPrice": 18,
+        "minPrice": 11,
+        "modalPrice": 15,
+        "state": "Karnataka"
+      },
+      "day4": {
+        "arrivalDate": "2026-05-11",
+        "commodity": "Cabbage",
+        "market": "Bangalore",
+        "maxPrice": 19,
+        "minPrice": 12,
+        "modalPrice": 16,
+        "state": "Karnataka"
+      },
+      "day5": {
+        "arrivalDate": "2026-05-12",
+        "commodity": "Cabbage",
+        "market": "Bangalore",
+        "maxPrice": 20,
+        "minPrice": 13,
+        "modalPrice": 17,
+        "state": "Karnataka"
+      },
+      "day6": {
+        "arrivalDate": "2026-05-13",
+        "commodity": "Cabbage",
+        "market": "Bangalore",
+        "maxPrice": 21,
+        "minPrice": 13,
+        "modalPrice": 17,
+        "state": "Karnataka"
+      },
+      "day7": {
+        "arrivalDate": "2026-05-14",
+        "commodity": "Cabbage",
+        "market": "Bangalore",
+        "maxPrice": 22,
+        "minPrice": 14,
+        "modalPrice": 18,
+        "state": "Karnataka"
+      }
+    }
+  }
+}
+
