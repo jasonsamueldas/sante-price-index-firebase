@@ -467,7 +467,7 @@ fun WatchScreen(
                             if (state.isOffline)
                                 "OFFLINE | Displaying Cached Data"
                             else
-                                "LIVE FROM AGMARKNET"
+                                "ONLINE"
                         },
                         fontSize = 10.sp,
                         fontWeight = FontWeight.Bold,
@@ -714,7 +714,7 @@ fun PriceCardUI(
             .padding(16.dp)) {
             Text(name.uppercase(), fontSize = 10.sp, fontWeight = FontWeight.Bold, color = Color.Gray)
             Row(verticalAlignment = Alignment.Bottom) {
-                Text("₹$price", fontSize = 32.sp, fontWeight = FontWeight.Bold, color = SafetyYellow)
+                Text("₹${price.toDoubleOrNull()?.times(100)?.toInt() ?: price}", fontSize = 32.sp, fontWeight = FontWeight.Bold, color = SafetyYellow)
                 Text("/qtl", fontSize = 14.sp, color = Color.Gray, modifier = Modifier.padding(bottom = 4.dp, start = 4.dp))
             }
             Text(mandi.uppercase(), fontSize = 10.sp, color = Color.DarkGray)
