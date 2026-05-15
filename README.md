@@ -98,7 +98,7 @@ app/
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/sante-price-index.git
+git clone https://github.com/jasonsamueldas/sante-price-index.git
 ```
 
 ---
