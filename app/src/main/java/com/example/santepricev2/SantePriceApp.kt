@@ -154,17 +154,9 @@ fun SantePriceApp() {
                             color = SafetyYellow
                         )
                     },
-                    navigationIcon = {
-                        IconButton(onClick = { /* Drawer */ }) {
-                            Icon(Icons.Default.Menu, "Menu", tint = SafetyYellow)
-                        }
-                    },
-                    actions = {
-                        IconButton(onClick = { /* Cycle Lang */ }) {
-                            Icon(Icons.Default.Language, "Language", tint = SafetyYellow)
-                        }
-                    },
-                    colors = TopAppBarDefaults.centerAlignedTopAppBarColors(containerColor = Color.Black)
+                    colors = TopAppBarDefaults.centerAlignedTopAppBarColors(
+                        containerColor = Color.Black
+                    )
                 )
             },
             bottomBar = { BottomNavigationBar(navController, currentRoute) },
